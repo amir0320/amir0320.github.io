@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Obsession of Moments",
+  "short_name": "Amir's Blog",
+  "description": "A personal site about almost everything I feel like writing.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
