@@ -6,6 +6,7 @@ node_modules
 .vscode
 *.log
 *.sh
+.jekyll-cache
 .DS_Store
 */.DS_Store
 */*/.DS_Store
