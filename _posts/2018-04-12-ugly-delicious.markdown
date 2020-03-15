@@ -8,9 +8,7 @@ tags:
         - food
         - entertain
 ---
-<p>
-        蛮喜欢[Ugly Delicious][1]的。David Chang自如地混杂着f word聊各种我特别爱吃的食物。
-</p>
+蛮喜欢[Ugly Delicious][Ugly Delicious]的。David Chang自如地混杂着f word聊各种我特别爱吃的食物。
 <p>
         最喜欢home cooking那集，反常识地了解到原来大厨们在家是不怎么做饭的，上了年纪的厨师们喜欢从食物上寻根，爱吃的也是记忆里和家人最亲近时做的东西。年轻时喜欢下饭馆，点菜一定要选妈妈永远不做的“垃圾食品”，老了反倒宁愿在出名的餐馆里做些卖相一般但有“家”的味道的食物。
 </p>
@@ -21,4 +19,5 @@ tags:
         食物不仅仅是食物，饭桌上聊的话题，烹饪时恪守的家庭食谱，挑选食材的标准和各种食材到达本地市场前历经的种种迁移历史，都属于我们自身identity里最重要的部分。对我最重要的那部分，应该是白鲳鱼、海瓜子和豆腐吧。虽然现在只有豆腐吃得到了......
 </p>
 ![special](/img/in-post/special.jpg)
-[1]: https://www.netflix.com/title/80170368
+
+[Ugly Delicious]: https://www.netflix.com/title/80170368

@@ -7,9 +7,7 @@ author: Amir
 tags:
         - readings
 ---
-<p>
-        Single-Bit Error应该是刘宇昆所有短篇中我最喜欢的。
-</p>
+[**_Single-Bit Error_**][Single-Bit Error]应该是刘宇昆所有短篇中我最喜欢的。
 <p>
         本科时第一门CS课，教授教我们functional programing language。那时候最容易遇上的错误是bit overflow。计算机归根结底是二元的，最底层的机器语言由0和1构造。我们一群菜鸟在有限的内存中，小心翼翼地变换着思路，防止某个不应该被撞到的0变成1，不让整个程序崩溃。
 </p>
@@ -28,3 +26,5 @@ tags:
 <p>
         但是你，无法相信。You just can't. 妈的我又要去哭一会儿了。
 </p>
+
+[Single-Bit Error]: https://kenliu.name/stories/single-bit-error/
