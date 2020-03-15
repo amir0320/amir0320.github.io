@@ -61,7 +61,7 @@ disqus_username: amirnie
 
 # Analytics settings
 # Google Analytics
-ga_track_id: G-PKF3R60RB1           # Format: UA-xxxxxx-xx
+ga_track_id: UA-160189544-1           # Format: UA-xxxxxx-xx
 ga_domain: https://amir0320.github.io
 
 
