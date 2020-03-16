@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://amir0320.github.io/sitemap.xml
