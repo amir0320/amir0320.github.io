@@ -5,6 +5,14 @@ sitemap:
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        {% for tag in site.tags %}
+        <url>
+                <loc>{{ site.url }}/archive/?tag={{ tag[0] | url_encode }}</loc>
+                <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+                <changefreq>monthly</changefreq>
+                <priority>0.8</priority>
+        </url>
+        {% endfor %}
         {% for post in site.posts %}
         {% unless post.published == false %}
         <url>
